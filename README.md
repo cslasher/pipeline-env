@@ -6,10 +6,10 @@
 
 ## Base OS Image
 
-- Ubuntu 18.04 Xenial Xerus
+- Aline 3.7.0
 
 ## Testing Environment
 
-- Node.js v8.10.0
-- npm 3.5.2
+- Node.js v10.0.6
+- npm 6.1.0
 - OpenJDK 1.8.0_171
