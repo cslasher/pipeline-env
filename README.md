@@ -6,7 +6,7 @@
 
 ## Base OS Image
 
-- Aline 3.7.0
+- Alpine 3.7.0
 
 ## Testing Environment
 
